@@ -1,0 +1,10 @@
+from_country,to_country,cost_per_mile_per_car
+US,US,0.01
+US,CA,0.0175
+US,MX,0.015
+CA,US,0.02
+CA,CA,0.015
+CA,MX,0.025
+MX,US,0.025
+MX,CA,0.03
+MX,MX,0.01
