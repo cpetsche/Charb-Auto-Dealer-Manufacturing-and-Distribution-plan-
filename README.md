@@ -15,6 +15,7 @@ The following files are needed for use in the development of this model:
 - plant_data.csv: The information associated with each manufacturing plant (name, city, country, location, and total manufacturing capacity in hours)
 - road_transportation_costs.csv:  The information associated with transporting vehicles from manufacturer to dealership (origin country, destination country, cost/vehicle/mile) 
 - tariffs.csv: the country to country tariffs for each vehicle type (origin country, destination country, cost/vehicle)
+- Entity relationship diagram
 
 The code will: 
 - Load the raw data (inputs) into a mysqsl database. Use scripts to both create the database and to populate them 
