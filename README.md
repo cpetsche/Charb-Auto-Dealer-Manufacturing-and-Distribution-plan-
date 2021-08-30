@@ -18,5 +18,5 @@ The following files are needed for use in the development of this model:
 
 The code will: 
 - Load the raw data (inputs) into a mysqsl database. Use scripts to both create the database and to populate them 
-- Build a model by reading in the data from the database and formulating a feasible model that minimizes the cost for Charb-Auto
+- Build a Gurobi optimization model by reading in the data from the database and formulating a feasible model that minimizes the cost for Charb-Auto
 - Write the solution to a table in the database as well as output the solution to the screen 
